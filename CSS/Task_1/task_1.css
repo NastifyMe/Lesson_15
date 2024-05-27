@@ -1,0 +1,13 @@
+body{
+    line-height: 1.5;
+    font-size: 20px;
+    background-color: lightgray;
+}
+.container{
+    display: flex;
+    gap: 8px;
+    max-width: 960px;
+}
+.sidebar{
+    flex-basis: 200px;
+}
